@@ -1,0 +1,11 @@
+﻿OrphanDisease Name,ORPHAcode,Gene,Pathway,Pathway Coverage,Mechanism,Symptoms
+Cystic Fibrosis,586,CFTR,Ion transport,High,CFTR mutation affects chloride ion,Lung infections
+Duchenne Muscular Dyst.,98896,DMD,Muscle integrity,Medium,Dystrophin gene mutation,Muscle weakness
+Spinal Muscular Atrophy,52,SMN1,RNA splicing,High,SMN protein deficiency,Muscle wasting
+Phenylketonuria,716,PAH,Phenylalanine path,Medium,Deficient PAH enzyme,"Seizures, brain damage"
+Gaucher Disease,355,GBA,Lysosomal storage,High,Glucocerebrosidase deficiency,Organ/bone enlargement
+Retinitis Pigmentosa,791,RHO,Phototransduction,Low,Rod photoreceptor degeneration,Vision loss
+Niemann-Pick Type C,646,NPC1,Lipid transport,Medium,Lipid accumulation in lysosomes,"Liver failure, ataxia"
+Fabry Disease,324,GLA,Glycolipid metabolism,Medium,?-galactosidase A deficiency,"Pain, kidney failure"
+Tay-Sachs Disease,739,HEXA,Lysosomal degradation,Low,Hexosaminidase A deficiency,Neurodegeneration
+Alkaptonuria,56,HGD,Tyrosine metabolism,Medium,Homogentisic acid buildup,"Joint pain, dark urine"
