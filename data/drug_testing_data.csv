@@ -1,0 +1,16 @@
+Drug Name,SMILES,Target Protein,Mechanism of Action,Binding Affinity,Toxicity Score
+Aspirin,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inhibits prostaglandin synthesis,-8.5,0.2
+Ibuprofen,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inhibits prostaglandin synthesis,-8.3,0.3
+Paracetamol,CC(=O)NC1=CC=C(O)C=C1,COX-3,Inhibits prostaglandin synthesis,-7.9,0.25
+Metformin,CN(C)C(=O)C(N)C(O)=O,AMPK,Activates AMPK,-9.2,0.1
+Atorvastatin,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,HMGCR,Inhibits cholesterol synthesis,-10.1,0.4
+Amoxicillin,CC1=C(N=CN1)C2=CC=CC=C2,PBPs,Inhibits cell wall synthesis,-8.7,0.15
+Ciprofloxacin,C1CC1CN2C=NC3=C2N=CN=C3N,DNA gyrase,Inhibits bacterial DNA replication,-9.5,0.2
+Omeprazole,C1CNCCC1OC2=CC=CC=C2Cl,H+/K+ ATPase,Reduces stomach acid production,-7.8,0.35
+Lisinopril,CC(C)CC1=CC=CC=C1C(=O)O,ACE,Inhibits conversion of angiotensin I to II,-8.6,0.1
+Losartan,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,AT1 receptor,Blocks angiotensin II receptor,-8.9,0.3
+Metoprolol,CC(C)NCC(O)=O,Beta-1 receptor,Blocks beta-adrenergic receptors,-9,0.25
+Simvastatin,CCC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMGCR,Inhibits cholesterol synthesis,-10,0.4
+Doxycycline,CC1=CC=CC=C1C(=O)O,30S ribosomal subunit,Inhibits protein synthesis,-8.4,0.2
+Clopidogrel,CC1=CC=C(C=C1)C(C)C(=O)O,P2Y12 receptor,Inhibits platelet aggregation,-8.2,0.3
+Fluoxetine,CN(C)CCCCC1=CC=CC=C1,SERT,Inhibits serotonin reuptake,-9.3,0.35
