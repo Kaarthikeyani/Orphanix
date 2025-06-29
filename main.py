@@ -2,6 +2,15 @@ from fastapi.staticfiles import StaticFiles
 from fastapi.responses import FileResponse
 import os
 
+app = FastAPI()
+
+# Serve static folder
+app.mount("/static", StaticFiles(directory="static"), name="static")
+
+# Serve index.html at root route
+@app.get("/")
+def read_index():
+    return FileResponse(os.path.join("static", "index.html"))
 
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
