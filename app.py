@@ -1,3 +1,11 @@
+from flask import render_template
+from flask_cors import CORS
+
+CORS(app)
+
+@app.route("/")
+def home():
+    return render_template("index.html")
 from flask import Flask, request, jsonify
 import numpy as np
 import joblib
